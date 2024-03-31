@@ -2,6 +2,11 @@
 
 NextEcomm-Admin is a lightweight and user-friendly Next.js e-commerce admin panel designed to assist e-commerce owners and developers in managing their online stores effortlessly. This frontend interface provides essential functionalities like product upload and editing, making it an ideal solution for those seeking a straightforward admin panel for their e-commerce management needs.
 
+## Demo
+
+Check out the demo of NextEcomm-Admin [here](https://mdfarhyn.github.io/NextjsEcomm-Admin/myaccount).
+
+
 ## Getting Started
 
 To get started, follow these simple steps:
